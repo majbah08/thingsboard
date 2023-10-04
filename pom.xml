@@ -149,7 +149,7 @@
         <webdrivermanager.version>5.2.0</webdrivermanager.version>
         <allure-testng.version>2.21.0</allure-testng.version>
         <allure-maven.version>2.12.0</allure-maven.version>
-        <slack-api.version>1.12.1</slack-api.version>
+        <slack-api.version>1.34.0</slack-api.version>
         <oshi.version>6.4.2</oshi.version>
     </properties>
 
@@ -776,7 +776,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
