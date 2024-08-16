@@ -41,7 +41,7 @@
         <jaxb-runtime.version>2.3.2</jaxb-runtime.version>
         <spring-boot.version>2.7.10</spring-boot.version>
         <spring-data.version>2.7.10</spring-data.version>
-        <spring.version>5.3.26</spring.version>
+        <spring.version>5.3.38</spring.version>
         <spring-redis.version>5.5.17</spring-redis.version>
         <spring-security.version>5.7.7</spring-security.version>
         <spring-data-redis.version>2.7.10</spring-data-redis.version>
@@ -108,7 +108,7 @@
         <fst.version>2.57</fst.version>
         <antlr.version>2.7.7</antlr.version>
         <snakeyaml.version>2.0</snakeyaml.version>
-        <aws.sdk.version>1.11.747</aws.sdk.version>
+        <aws.sdk.version>1.12.769</aws.sdk.version>
         <pubsub.client.version>1.105.0</pubsub.client.version>
         <google.common.protos.version>2.1.0</google.common.protos.version> <!-- required by io.grpc:grpc-protobuf:1.38.0-->
         <azure-servicebus.version>3.6.7</azure-servicebus.version>
