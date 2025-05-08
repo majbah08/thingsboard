@@ -60,7 +60,7 @@
     "html2canvas": "^1.4.1",
     "jquery": "^3.6.3",
     "jquery.terminal": "^2.35.3",
-    "js-beautify": "^1.14.7",
+    "js-beautify": "^1.14.10",
     "json-schema-defaults": "^0.4.0",
     "jstree": "^3.3.15",
     "jstree-bootstrap-theme": "^1.0.1",
