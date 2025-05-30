@@ -39,7 +39,7 @@
         <javax-annotation.version>1.3.2</javax-annotation.version>
         <jakarta.xml.bind-api.version>2.3.2</jakarta.xml.bind-api.version>
         <jaxb-runtime.version>2.3.2</jaxb-runtime.version>
-        <spring-boot.version>2.7.10</spring-boot.version>
+        <spring-boot.version>3.3.7</spring-boot.version>
         <spring-data.version>2.7.10</spring-data.version>
         <spring.version>5.3.26</spring.version>
         <spring-redis.version>5.5.17</spring-redis.version>
@@ -143,7 +143,7 @@
         <testcontainers.version>1.17.3</testcontainers.version>
         <zeroturnaround.version>1.12</zeroturnaround.version>
         <opensmpp.version>3.0.0</opensmpp.version>
-        <jgit.version>6.1.0.202203080745-r</jgit.version>
+        <jgit.version>6.10.1.202505221210-r</jgit.version>
         <exp4j.version>0.4.8</exp4j.version>
         <aerogear-otp.version>1.0.0</aerogear-otp.version>
         <selenium.version>4.6.0</selenium.version>
